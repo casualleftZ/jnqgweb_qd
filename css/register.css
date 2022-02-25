@@ -1,0 +1,31 @@
+header {
+    margin-top: 18px;
+	height: 90px;
+    border-bottom: 2px solid #c81523;
+}
+.logo_register{
+	
+	float: left;
+}
+.logo_register a img{
+	height: 82px;
+	width: 82px;
+	
+}
+/*注册页面*/
+
+.registerarea {
+    height: 522px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+/*版权*/
